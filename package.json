@@ -1,1 +1,11 @@
+{
+  "name": "hello-exe-builder",
+  "version": "1.0.0",
+  "description": "A website that builds and downloads a Hello World exe file",
+  "main": "api/build.js",
+  "scripts": {
+    "start": "node api/build.js"
+  },
+  "dependencies": {}
+}
 
